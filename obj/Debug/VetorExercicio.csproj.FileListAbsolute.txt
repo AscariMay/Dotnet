@@ -1,0 +1,7 @@
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\VetorExercicio\VetorExercicio\bin\Debug\VetorExercicio.exe.config
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\VetorExercicio\VetorExercicio\bin\Debug\VetorExercicio.exe
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\VetorExercicio\VetorExercicio\bin\Debug\VetorExercicio.pdb
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.csproj.CoreCompileInputs.cache
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.exe
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.pdb
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\VetorExercicio\VetorExercicio\obj\Debug\VetorExercicio.csproj.AssemblyReference.cache
